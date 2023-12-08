@@ -1,0 +1,1 @@
+import{d as o,u as n,o as s,c as a,b as e,t as i,j as r}from"./index-f172b3f5.js";const c=e("div",{style:{"text-align":"center","font-size":"40px","margin-top":"40px"}},"home",-1),p={style:{"text-align":"center","font-size":"40px","margin-top":"40px"}},u=o({__name:"Home",setup(_){const{path:t}=n();return(l,m)=>(s(),a("div",null,[c,e("div",p,i(r(t)),1)]))}});export{u as default};
